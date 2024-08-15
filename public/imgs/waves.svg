@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2470px" height="4244px" viewBox="0 0 2470 4244" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#011B36" offset="0%"></stop>
+            <stop stop-color="#011B36" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wave" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M1,0 L18.1,22.2 C35.3,44 70,89 104,85.5 C138.1,82 172,32 207,28.5 C241,25 275,70 310,82.3 C343.9,95 378,76 412,63.3 C446.7,51 481,44 515,60.2 C549.6,76 584,114 618,117.2 C652.4,120 687,89 721,60.2 C755.3,32 790,6 824,19 C858.1,32 892,82 927,110.8 C961,139 995,146 1030,133 C1063.9,120 1098,89 1132,76 C1166.7,63 1201,70 1235,57 C1269.6,44 1304,13 1338,22.2 C1372.4,32 1407,82 1441,85.5 C1475.3,89 1510,44 1544,38 C1578.1,32 1612,63 1647,82.3 C1681,101 1715,108 1750,101.3 C1783.9,95 1818,76 1852,72.8 C1886.7,70 1921,82 1955,95 C1989.6,108 2024,120 2058,114 C2092.4,108 2127,82 2161,85.5 C2195.3,89 2230,120 2264,110.8 C2298.1,101 2332,51 2367,38 C2401,25 2435,51 2452,63.3 L2469.6,76 L2469.5,4244 L0.9,4244 L1,0 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    background-color: #011b36;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+@font-face {
+    font-family: 'Chillow';
+    src: local('Chillow'), url('../public/fonts/Chillow-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'WorkSans';
+    src: local('WorkSans'), url('../public/fonts/WorkSans-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: 'Oliver';
+    src: local('Oliver'), url('../public/fonts/Oliver-Regular.ttf');
+}
+
+
+.mask1 {
+    -webkit-mask-image: url(../public/imgs/waves.svg);
+    mask-image: url(../public/imgs/waves.svg);
+    mask-size: cover;
+}
+
+@keyframes scrollGrid {
+    0% {
+        background-position: 0 0;
+    }
+
+    100% {
+        background-position: -7200px 0;
+    }
+}
